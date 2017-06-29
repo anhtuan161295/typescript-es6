@@ -8,8 +8,8 @@
 7. And then config typescript options.
 8. Writing code and save, automatic compiling to JS.
 
-Install lite server
-npm install -g lite-server
-npm install --save lite-server
-npm init
-npm start
+Install lite server 
+1. npm install -g lite-server 
+2. npm install --save lite-server 
+3. npm init 
+4. npm start 
