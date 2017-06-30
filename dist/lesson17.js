@@ -1,5 +1,5 @@
 "use strict";
-// Decleare a Class
+// Declare a Class
 var Person = (function () {
     function Person() {
     }

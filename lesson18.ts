@@ -15,5 +15,7 @@ class Person1 {
     }
 }
 let p = new Person1("Tedu");
-Person1.talk();
-p.run();
+// Person1.talk();
+// p.run();
+console.log(p.name);
+

@@ -1,4 +1,4 @@
-// Decleare a Class
+// Declare a Class
 class Person{
     run(){
         console.log("Person is running");

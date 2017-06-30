@@ -16,6 +16,7 @@ var Person1 = (function () {
     return Person1;
 }());
 var p = new Person1("Tedu");
-Person1.talk();
-p.run();
+// Person1.talk();
+// p.run();
+console.log(p.name);
 //# sourceMappingURL=lesson18.js.map
