@@ -1,4 +1,6 @@
 # typescript-es6
+This is a sample project to learn about Typescript with ES6.
+
 1. Installing Visual Studio Code Editor (https://code.visualstudio.com/)
 2. Installing Nodejs (https://nodejs.org/en/)
 3. Create a new folder for Source Code
